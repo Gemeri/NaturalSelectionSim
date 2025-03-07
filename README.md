@@ -39,7 +39,7 @@ This project is a 3D natural selection simulation built using VPython and Python
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Gemeri/NaturalSelectionSim.git
+   git clone https://github.com/Gemeri/NaturalSelectionSim
    cd NaturalSelectionSim
    ```
 
